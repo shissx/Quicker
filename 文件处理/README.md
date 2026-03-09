@@ -14,3 +14,6 @@ https://getquicker.net/
 _compressed|
 _batch|
 ```
+# 大菠萝压缩
+选中mp4视频文件，调用HandBrakeCLI压缩输出到out文件夹
+注意：需要下载HandBrakeCLI并设置好环境变量
